@@ -1,0 +1,25 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.example.discover"
+    },
+    "com.scott.serviceDiscovery": {
+      "PACKAGE_NAME": "com.example.discover"
+    },
+    "cordova-plugin-zeroconf": {
+      "PACKAGE_NAME": "com.example.discover"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-add-swift-support": {
+      "PACKAGE_NAME": "com.example.discover"
+    }
+  }
+}

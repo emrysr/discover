@@ -1,0 +1,34 @@
+{
+  "cordova-plugin-whitelist": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-whitelist@1"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "com.scott.serviceDiscovery": {
+    "source": {
+      "type": "local",
+      "path": "/home/emrys/test/discover/node_modules/cordova-plugin-discovery"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-zeroconf": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-zeroconf"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-add-swift-support": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-add-swift-support@^2.0.2"
+    },
+    "is_top_level": false,
+    "variables": {}
+  }
+}
